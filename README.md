@@ -1,9 +1,11 @@
 **BMI Calculator:**
-This is a straightforward project featuring a calculator built using JavaScript, leveraging Node.js, Express, and HTML. The primary aim of this project is to offer a basic illustration for training and refining web development skills. It's worth noting that I am a Registered Dietitian Nutritionist who found it enjoyable to blend my expertise as a health professional with web development.
+
+<p>This is a straightforward project featuring a calculator built using JavaScript, leveraging Node.js, Express, and HTML. The primary aim of this project is to offer a basic illustration for training and refining web development skills. As also a Registered Dietitian Nutritionist I find this project to be enjoyable to blend my expertise as a health professional with web development.</p>
 
 **Capabilities:**
-It facilitates the execution of fundamental arithmetic operations like addition, subtraction, multiplication, and division.
-The results of these operations are displayed directly on the web page.
+
+<p>It facilitates the execution of fundamental arithmetic operations like addition, subtraction, multiplication, and division.
+The results of these operations are displayed directly on the web page.</p>
 
 **Prerequisites:**
 
