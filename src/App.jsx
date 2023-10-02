@@ -24,6 +24,29 @@ function App() {
           of 25.0 or higher suggests being overweight. It's essential to note
           that BMI is typically applicable to adults aged 18 to 65 years.
         </p>
+
+        <table>
+          <tr>
+            <th>BMI</th>
+            <th>Category</th>
+          </tr>
+          <tr>
+            <td>Under 18.5</td>
+            <td>Underweight</td>
+          </tr>
+          <tr>
+            <td>18.5-24.9</td>
+            <td>Normal</td>
+          </tr>
+          <tr>
+            <td>25-29.9</td>
+            <td>Overweight</td>
+          </tr>
+          <tr>
+            <td>30 and over</td>
+            <td>Obese</td>
+          </tr>
+        </table>
       </div>
     </>
   );
